@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>飛行冒険団｜Drone Adventure Team</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: "Segoe UI", sans-serif;
+      background: #e6f1f0;
+      color: #103b3c;
+    }
+    header {
+      background: #0d3b66;
+      color: white;
+      padding: 1rem;
+      text-align: center;
+    }
+    header h1 {
+      margin: 0;
+      font-size: 2.5rem;
+    }
+    .shine {
+      text-align: center;
+      margin: 2rem;
+    }
+    .shine img {
+      width: 200px;
+    }
+    .section {
+      max-width: 800px;
+      margin: 0 auto;
+      padding: 1rem;
+    }
+    .section h2 {
+      border-bottom: 2px solid #0d3b66;
+      padding-bottom: 0.5rem;
+    }
+    footer {
+      background: #0d3b66;
+      color: white;
+      text-align: center;
+      padding: 1rem;
+      margin-top: 2rem;
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <h1>飛行冒険団</h1>
+  <p>Drone Adventure Team</p>
+</header>
+
+<div class="shine">
+  <img src="Shineペイント のコピー.png" alt="シャインちゃん">
+  <p>こんにちは！私はシャインちゃん。空からの冒険をナビゲートするよ！</p>
+</div>
+
+<div class="section">
+  <h2>会社紹介 / About Us</h2>
+  <p>
+    飛行冒険団は、ドローンを活用して中山間地の調査、災害支援、農業支援を行う新しいスタイルの空のチームです。<br>
+    <em>“空からの視点で、地域をもっと元気に。”</em>
+  </p>
+  <p>
+    <strong>Drone Adventure Team "Hikou Boukendan"</strong><br>
+    We are a team of drone professionals dedicated to inspecting mountain villages, supporting agriculture, and contributing to disaster relief — all from the sky.
+  </p>
+</div>
+
+<div class="section">
+  <h2>サービス / Services</h2>
+  <ul>
+    <li>空撮 & プロモーション映像</li>
+    <li>インフラ点検（屋根・外壁・橋梁等）</li>
+    <li>農地モニタリング・スマート農業支援</li>
+    <li>災害現場の空中調査</li>
+  </ul>
+</div>
+
+<footer>
+  &copy; 2025 飛行冒険団 - All rights reserved.
+</footer>
+
+</body>
+</html>
